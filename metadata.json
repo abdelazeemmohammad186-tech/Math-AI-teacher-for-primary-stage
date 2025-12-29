@@ -1,0 +1,8 @@
+{
+  "name": "Math Teacher AI (Primary Stage - Egypt)",
+  "description": "An intelligent math tutor specializing in the Egyptian primary school curriculum, offering multi-modal input (text, voice, image) and interactive whiteboard explanations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
